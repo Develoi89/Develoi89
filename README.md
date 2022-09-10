@@ -16,7 +16,7 @@
     </p>
     </a>
     <h3>Progress:</h3>
-    <img src="img/42fam.jpeg" width="1000">
+    <img src="img/42fam.jpeg" width="1000" />
     <p>
         Today, thanks to all my colleagues and all the tools provided by 42 Barcelona, ​​I can say that I am proud of everything I have learned, of what I continue to learn and of what I am sure I will learn about the code.
     </p>
