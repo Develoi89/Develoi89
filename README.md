@@ -21,6 +21,9 @@
         Today, thanks to all my colleagues and all the tools provided by 42 Barcelona, ​​I can say that I am proud of everything I have learned, of what I continue to learn and of what I am sure I will learn about the code.
     </p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Develoi89&layout=compact&theme=chartreuse-dark" />
-
+    <p>
+       I invite you to follow my progress both here on GitHub and on my linkedin profile. 
+    </p>
+    <img src="img/Li.png" width="70" />
 </body>
 </html>
