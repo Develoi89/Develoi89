@@ -11,10 +11,10 @@
     </p>
     <a href="https://www.42barcelona.com/noticias-2/" target="_blank">
         <img src="img/42bcn.jpg" width="1000" />
+    </a>
     <p>
         After a selection test of twenty-six days, in which skills such as tolerance to frustration, perseverance, proactivity and teamwork were tested through bash and "c" exercises based on the peer to peer methodology, I entered as an official campus student and started my career.
     </p>
-    </a>
     <h3>Progress:</h3>
     <img src="img/42fam.jpeg" width="1000" />
     <p>
