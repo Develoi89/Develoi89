@@ -10,7 +10,7 @@
         I needed a way to start my studies, combining them with mi work life, it is something complex when you work full time, and when I began to think that it was impossible, I found <a href="https://www.42barcelona.com/es/filosofia-42/" target="_blank" >42 Barcelona</a>.
     </p>
     <a href="https://www.42barcelona.com/noticias-2/" target="_blank">
-        <img src="img/42bcn.jpg" />
+        <img src="img/42bcn.jpg" width="300" />
     </a>
 </body>
 </html>
