@@ -24,6 +24,8 @@
     <p>
        I invite you to follow my progress both here on GitHub and on my linkedin profile. 
     </p>
-    <img src="img/Li.png" width="70" />
+    <a href="https://www.linkedin.com/in/eloy-alonso" target="_blank">
+        <img src="img/Li.png" width="70" />
+    </a>
 </body>
 </html>
